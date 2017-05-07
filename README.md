@@ -24,13 +24,13 @@ Complete project is arduino based. Arduino IDE is required as a software which c
  
  ![alt text](/humanoid-mech-image1.jpg)
  
- Complete 3d view of this design: /one%20leg%20design.PDF (open this file in Adobe Acrobat Reader DC or any relevant software which can open 3d pdf file).
+ Complete 3d view of this design: https://github.com/marsiitr/Humanoid/blob/master/one%20leg%20design.PDF (open this file in Adobe Acrobat Reader DC or any relevant software which can open 3d pdf file).
  
  Major parts used were 3d printed from Tinkering Labroratory,IITR
  
  # Electronics Design: 
 ![alt text](/schematic%20-humanoid.JPG)
-Eagle Schematics file- /design files/Mars.sch
+Eagle Schematics file- https://github.com/marsiitr/Humanoid/blob/master/design%20files/Mars.sch
 
 # Control:
 It has 4 d.o.f. in each leg which is sufficient for providing straight walking motion. It is to be noted that for same pair of dc motors, we can achieve side-side as well as front-back motion of a joint. For eg.- If the two motors (attached in the same half of one leg) is rotated with same speed, we achieve front-back motion.<br/>
